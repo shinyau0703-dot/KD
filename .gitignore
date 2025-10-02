@@ -1,0 +1,12 @@
+﻿# 忽略迷你環境與暫存
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# 可選：先忽略所有 CSV（日後你要上傳再刪掉這行）
+*.csv
+
+# 可選：忽略中間輸出與圖檔
+outputs/
+*.png
+*.pdf

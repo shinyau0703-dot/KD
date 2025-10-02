@@ -1,0 +1,137 @@
+{
+  "Frequency": {						//頻率
+    "decE1Pump": "129.99",				//真空蝕刻1射流泵頻率
+    "decE2Pump": "129.99",				//真空蝕刻2射流泵频率
+    "decE3Pump": "129.99",				//真空蝕刻3射流泵頻率	
+    "decE4Pump": "124.99",				//真空蝕刻4射流泵頻率
+    "decE1Cycle": "139.99",				//真空蝕刻1循環
+    "decE3Cycle": "139.99",				//真空蝕刻3循環
+    "decGale": "430.0",					//強風吹乾頻率1
+    "decGale2": "430.0",				//強風吹乾頻率2
+    "decHotGale": "630.0"				//強熱風吹乾頻
+  },		
+  "Temperature": {						//溫度
+    "decD1": "28.9",					//顯影1溫度
+    "decD2": "28.9",					//顯影2溫度
+    "decNewLiquid": "28.1",				//新液洗溫度
+    "decOverFlow4": "27.2",				//溢流水洗4溫度
+    "decE1": "50.2",					//真空蝕刻1溫度
+    "decE2": "50.0",					//真空蝕刻2溫度
+    "decE3": "50.8",					//真空蝕刻3溫度
+    "decE4": "50.1",					//真空蝕刻4溫度
+    "decS1": "52.0",					//退膜1溫度
+    "decS2": "52.3",					//退膜2溫度
+    "decPickling": "30.2",				//酸洗溫度
+    "decHotGale": "84.9",				//熱風吹乾溫度
+    "decDAddVat": "32.1",				//顯影添加缸溫度
+    "decDStoreVat": "33.0",				//顯影暫存缸溫度
+    "decEStoreVat": "35.0",				//蝕刻暫存缸溫度
+    "decSAddVat": "32.2",				//退膜添加缸溫度
+    "decSPSVat": "32.9",				//退膜添加缸溫度
+    "decMAddVat": "33.7",				//微蝕添加缸溫度
+    "decCoolingWater": "18.7"			//冷卻水溫度
+  },
+  "ConstantPressure": {					//自動恆壓
+    "decD1": "1.5",						//顯影1
+    "decD2": "1.7",						//顯影2
+    "decE1A": "3.0",					//真空蝕刻1A
+    "decE1B": "3.0",					//真空蝕刻1B
+    "decE2Up": "3.2",					//真空蝕刻2上
+    "decE2Down": "2.6",					//真空蝕刻2下
+    "decE3Up": "2.9",					//真空蝕刻3上
+    "decE3Down": "2.5",					//真空蝕刻3下
+    "decE4Up": "3.0",					//真空蝕刻4上
+    "decE4Down": "2.5",					//真空蝕刻4下
+    "decS1": "2.5",						//退膜1
+    "decS2": "2.5"						//退膜1
+  },
+  "Pressure": {							//壓力
+    "decD1UpSpray": "1.4",				//顯影1上噴
+    "decD1DownSpray": "1.5",			//顯影1下噴
+    "decD2UpSpray": "1.5",				//顯影2上噴
+    "decD2DownSpray": "1.6",			//顯影2下噴
+    "decNewLiquidUpSpray": "1.7",		//新液洗上噴
+    "decNewLiquidDownSpray": "1.7",		//新液洗下噴
+    "decOverFlow1UpSpray": "1.2",		//溢流水洗1上噴
+    "decOverFlow1DownSpray": "1.2",		//溢流水洗1下噴
+    "decOverFlow2UpSpray": "1.3",		//溢流水洗2上噴
+    "decOverFlow2DownSpray": "1.3",		//溢流水洗2下噴
+    "decOverFlow3UpSpray": "1.4",		//溢流水洗3上噴
+    "decOverFlow3DownSpray": "1.3",		//溢流水洗3下噴
+    "decOverFlow4UpSpray": "1.4",		//溢流水洗4上噴
+    "decOverFlow4DownSpray": "1.3",		//溢流水洗4下噴
+    "decOverFlow5UpSpray": "1.4",		//溢流水洗5上噴
+    "decOverFlow5DownSpray": "1.4",		//溢流水洗5下噴
+    "decOverFlow6UpSpray": "1.4",		//溢流水洗6上噴
+    "decOverFlow6DownSpray": "1.4",		//溢流水洗6下噴
+    "decOverFlow7UpSpray": "1.3",		//溢流水洗7上噴
+    "decOverFlow7DownSpray": "1.3",		//溢流水洗7下噴
+    "decOverFlow8UpSpray": "1.4",		//溢流水洗8上噴
+    "decOverFlow8DownSpray": "1.4",		//溢流水洗8下噴
+    "decOverFlow9UpSpray": "1.5",		//溢流水洗9上噴
+    "decOverFlow9DownSpray": "1.4",		//溢流水洗9下噴
+    "decE1AUpSpray": "3.0",				//真空蝕刻1A上噴
+    "decE1ADownSpray": "3.0",			//真空蝕刻1A下噴
+    "decE1BUpSpray": "2.9",				//真空蝕刻1B上噴
+    "decE1BDownSpray": "3.0",			//真空蝕刻1B下噴
+    "decPump1": "1.7",					//射流泵1
+    "decPump2": "1.7",					//射流泵2
+    "decPump3": "1.7",					//射流泵3
+    "decPump4": "1.8",					//射流泵4
+    "decStopWashingUpSpray": "2.0",		//止水洗上噴
+    "decStopWashingDownSpray": "2.0",	//止水洗下噴
+    "decS1UpSpray": "2.4",				//退膜1上噴
+    "decS1DownSpray": "2.4",			//退膜1上噴
+    "decS2UpSpray": "2.4",				//退膜2上噴
+    "decS2DownSpray": "2.5",			//退膜2下噴
+    "decPicklingUpSpray": "1.9",		//酸洗上噴
+    "decPicklingDownSpray": "1.9",		//酸洗下噴
+    "decPressureRinse1UpSpray": "2.4",	//加壓水洗1上噴
+    "decPressureRinse1DownSpray": "2.4",//加壓水洗1下噴
+    "decPressureRinse2UpSpray": "2.5",	//加壓水洗2上噴
+    "decPressureRinse2DownSpray": "2.4",//加壓水洗2下噴
+    "decPressureRinse3UpSpray": "2.4",	//加壓水洗3上噴
+    "decPressureRinse3DownSpray": "2.5",//加壓水洗3下噴
+    "decPressureRinse4UpSpray": "2.4",	//加壓水洗4上噴
+    "decPressureRinse4DownSpray": "2.4",//加壓水洗4下噴
+    "decPressureRinse5UpSpray": "2.4",	//加壓水洗5上噴
+    "decPressureRinse5DownSpray": "2.5",//加壓水洗5下噴
+    "decGale1": "5.6",					//強風吹乾壓力1
+    "decGale2": "7.7",					//強風吹乾壓力2
+    "decHotGale1": "4.7",				//強熱風吹乾壓力1
+    "decHotGale2": "4.4",				//強熱風吹乾壓力2
+    "decHotGale3": "0.0",				//強熱風吹乾壓力3
+    "decCoolingWater": "2.1",			//冷卻水
+    "decTopWater": "0.0",				//自來水
+    "decE2UpSpray": "0.0",				//真空蝕刻2上噴
+    "decE2DownSpray": "0.0",			//真空蝕刻2下噴
+    "decE3UpSpray": "0.0",				//真空蝕刻3上噴
+    "decE3DownSpray": "0.0",			//真空蝕刻3下噴
+    "decE4UpSpray": "0.0",				//真空蝕刻4上噴
+    "decE4DownSpray": "0.0"				//真空蝕刻4下噴
+  },
+  "FlowRate": {							//流量
+    "decD1": "497.5",					//顯影1
+    "decD2": "524.4",					//顯影2
+    "decE1A": "462.1",					//真空蝕刻1A
+    "decE1B": "474.8",					//真空蝕刻1B
+    "decE2Up": "474.8",					//真空蝕刻2
+    "decE2Down": "444.5",				//真空蝕刻2
+    "decE3Up": "343.1",					//真空蝕刻3
+    "decE3Down": "356.2",				//真空蝕刻3
+    "decE4Up": "316.1",					//真空蝕刻4
+    "decE4Down": "280.7",				//真空蝕刻4
+    "decE1Cycle": "607.0",				//真空蝕刻1循環
+    "decE3Cycle": "506.1",				//真空蝕刻3循環
+    "decOverFlow4": "0.0",				//溢流水洗4補水
+    "decOverFlow7": "0.0",				//溢流水洗7補水
+    "decOverFlow9": "0.0",				//溢流水洗9補水
+    "decPressureRinse5": "0.0"			//加壓水洗5補水
+  },
+  "PH": {								//PH值
+    "decD1": "10.74",					//顯影1
+    "decD2": "10.89",					//顯影2
+    "decOverFlow7": "7.79",				/溢流水洗7
+    "decPressureRinse5": "8.03"			//加壓水洗5
+  }
+}
